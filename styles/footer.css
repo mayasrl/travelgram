@@ -1,0 +1,26 @@
+footer {
+  display: flex;
+  gap: 24px;
+  padding-block: 24px;
+  font: 14px/150% var(--font-family);
+
+  position: relative;
+  align-items: center; 
+}
+
+.footer-left {
+  margin-right: auto;
+}
+
+.footer-center {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  white-space: nowrap; 
+}
+
+.footer-right {
+  display: flex;
+  gap: 24px;
+  margin-left: auto; 
+}
