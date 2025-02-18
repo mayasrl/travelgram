@@ -20,13 +20,6 @@ Este projeto é uma **página de perfil de viagens** desenvolvida em **HTML5** e
 
 ---
 
-## Tecnologias Utilizadas
-
-- **HTML5**
-- **CSS3**
-- 
----
-
 ![Travelgram Screenshot](https://github.com/user-attachments/assets/4a8015a2-f4f8-4b2a-9719-b1e45ed5fd82)
 
 ---
